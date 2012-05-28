@@ -1,0 +1,14 @@
+#rrdtool create update1.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create update2.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create update3.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create update4.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create update5.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create login.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create bartz.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create sieghardt.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create kain.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create lionna.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create erica.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create gustin.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create devianne.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
+#rrdtool create hindemith.rrd --start N --step 60 DS:connect_time:GAUGE:60:U:U RRA:AVERAGE:0.5:1:1440 RRA:AVERAGE:0.5:1440:365
